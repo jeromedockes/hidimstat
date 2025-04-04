@@ -180,7 +180,7 @@ Visualize the data
  .. code-block:: none
 
 
-    [<matplotlib.axis.YTick object at 0x7f4a786e7cb0>, <matplotlib.axis.YTick object at 0x7f4a786e5e20>, <matplotlib.axis.YTick object at 0x7f4a77395070>, <matplotlib.axis.YTick object at 0x7f4a77395e20>, <matplotlib.axis.YTick object at 0x7f4a77396cc0>, <matplotlib.axis.YTick object at 0x7f4a773947a0>, <matplotlib.axis.YTick object at 0x7f4a773955e0>, <matplotlib.axis.YTick object at 0x7f4a780001d0>, <matplotlib.axis.YTick object at 0x7f4a78000380>, <matplotlib.axis.YTick object at 0x7f4a786b4230>]
+    [<matplotlib.axis.YTick object at 0x7ff18cdba300>, <matplotlib.axis.YTick object at 0x7ff18cdf0d40>, <matplotlib.axis.YTick object at 0x7ff17f32cf20>, <matplotlib.axis.YTick object at 0x7ff17f32f5c0>, <matplotlib.axis.YTick object at 0x7ff17f32e0c0>, <matplotlib.axis.YTick object at 0x7ff17f32eab0>, <matplotlib.axis.YTick object at 0x7ff17f32e6f0>, <matplotlib.axis.YTick object at 0x7ff17f3f0c80>, <matplotlib.axis.YTick object at 0x7ff17f3f3ad0>, <matplotlib.axis.YTick object at 0x7ff17cf16ea0>]
 
 
 
@@ -419,14 +419,14 @@ correlation structure of the features.
  .. code-block:: none
 
 
-    <matplotlib.legend.Legend object at 0x7f4a78759fd0>
+    <matplotlib.legend.Legend object at 0x7ff18cdba180>
 
 
 
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** (0 minutes 31.578 seconds)
+   **Total running time of the script:** (0 minutes 33.351 seconds)
 
 **Estimated memory usage:**  203 MB
 
